@@ -1,0 +1,2 @@
+# DeeClutter
+DeeClutter is a web-based application that aims to help the user in achieving a detox or break from social media and the constant online content consumed. It focuses on providing the user with a checkpoint based course, customised according to the user current mental state. Frequent progress checks have also been planned as a part of the course, informing the client as well as the service provider's database. Its intention is to ensure that the user feels 'healed' or 'recovered'.
